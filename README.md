@@ -1,5 +1,3 @@
-# MYTHIC_ENGINEERING.md
-
 # Mythic Engineering
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
