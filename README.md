@@ -1,6 +1,8 @@
 # Mythic Engineering
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
+*"Because **Mythic** is better than **GSD** and **Superpowers**"*
+
 **Mythic Engineering** is a disciplined form of vibe coding for people who think in worlds, systems, forces, relationships, and evolving architectures.
 
 It is not sloppy improvisation.  
