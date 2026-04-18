@@ -35,7 +35,7 @@ The result is a way of coding that keeps the creative power of vibe coding, but 
 
 ---
 
-
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472333376.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472333376.jpg)
 
 ---
 
