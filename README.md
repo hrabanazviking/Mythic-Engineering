@@ -2,11 +2,11 @@
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
 > GSD burns out.
-
+>
 > Superpowers fail under pressure.
-
+>
 > Prompt engineering is mostly hype.
-
+>
 > Mythic Engineering builds software as a living system.
 
 **Mythic Engineering** is a disciplined form of vibe coding for people who think in worlds, systems, forces, relationships, and evolving architectures.
