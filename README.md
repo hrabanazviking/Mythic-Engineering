@@ -580,7 +580,7 @@ A strong Mythic Engineering workflow often splits AI into functional roles.
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-96544f455.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-96544f455.jpg)
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/file_000000008f2471fd969f429530c10833.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/file_000000008f2471fd969f429530c10833.png)
 
 ## The Skald
 Use for:
