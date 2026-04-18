@@ -257,6 +257,10 @@ Your intuition can start the process, but the project must still be grounded in:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472324163.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472324163.jpg)
+
+---
+
 # The Full Operating Model
 
 Mythic Engineering usually works across five layers.
