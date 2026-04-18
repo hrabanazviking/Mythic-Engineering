@@ -578,6 +578,10 @@ Use AI after clarity has been made explicit enough to guide it.
 
 A strong Mythic Engineering workflow often splits AI into functional roles.
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-96544f455.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-96544f455.jpg)
+
 ## The Skald
 Use for:
 - naming
@@ -587,6 +591,8 @@ Use for:
 - design language
 - top-level vision docs
 
+---
+
 ## The Architect
 Use for:
 - system mapping
@@ -594,6 +600,8 @@ Use for:
 - boundary decisions
 - refactor planning
 - dependency flow analysis
+
+---
 
 ## The Forge Worker
 Use for:
@@ -603,6 +611,8 @@ Use for:
 - test scaffolding
 - mechanical cleanup
 
+---
+
 ## The Auditor
 Use for:
 - edge case review
@@ -610,6 +620,8 @@ Use for:
 - contradiction detection
 - interface mismatch detection
 - regression risk review
+
+---
 
 ## The Cartographer
 Use for:
@@ -619,6 +631,8 @@ Use for:
 - subsystem indexing
 - hotspot detection
 
+---
+
 ## The Scribe
 Use for:
 - README generation
@@ -626,6 +640,8 @@ Use for:
 - interface docs
 - task summaries
 - knowledge compression
+
+--
 
 A single model can sometimes play several of these roles, but you should still think in roles because it sharpens the task.
 
