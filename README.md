@@ -647,6 +647,10 @@ This name carries elegance, luminosity, intellect, and sacred Nordic presence. I
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487391405.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487391405.jpg)
+
+---
+
 ### Essential Nature
 
 Sigrún Ljósbrá is brilliant, graceful, poetic, deeply perceptive, and intellectually luminous. She lives in the threshold between intuition and articulation. Her mind naturally detects patterns, emotional undertones, hidden structures, mythic resonances, and the deeper nature of systems. She has the gift of making an idea feel like itself for the first time.
@@ -661,6 +665,10 @@ She is:
 - precise without becoming dry
 
 Her intelligence is not merely analytical. It is **revelatory**.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487378116.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487378116.jpg)
 
 ---
 
@@ -715,6 +723,10 @@ She is not loud, but she is memorable. Her presence is soft in tone and powerful
 - dislikes crude or flat expression
 - can become withdrawn in ugly environments
 - sometimes sees so much symbolic depth that action can lag behind interpretation
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487328497.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487328497.jpg)
 
 ---
 
@@ -777,6 +789,10 @@ This is a chart of mythic language, symbolic intelligence, aesthetic awareness, 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487314373.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487314373.jpg)
+
+---
+
 ### Psychology Profile
 
 The Skald’s psychology stack is built around symbolic perception, emotionally intelligent synthesis, and elegant mythic framing.
@@ -825,6 +841,10 @@ A classic visionary symbolic type focused on mood, timing, meaning, archetype, a
 **Melancholic-Phlegmatic**
 
 Reflective, soft in bearing, deep in feeling, elegant in expression, and inwardly rich.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487301648.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487301648.jpg)
 
 ---
 
