@@ -20,6 +20,10 @@ The **core of this methodology** is the partnership between the **Mythic Enginee
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101.png)
+
+---
+
 ## I. The Philosophical Shift: From Machine to Garden
 
 There is a historical chasm between the **Realm of Human Intention** (stories, feelings, visions) and the **Realm of Hidden Architecture** (logic, machine code). Traditionally, humans had to cross this chasm by learning to think like machines. Vibe Coding bridges this gap by using AI as a translator.
