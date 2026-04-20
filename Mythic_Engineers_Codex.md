@@ -1,5 +1,11 @@
 # The Mythic Engineer's Codex: Vibe Coding 101
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/34838nhfnr73a93.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/34838nhfnr73a93.png)
+
+---
+
 ### A Complete and Expansive Guide to Vibe Coding through the Ancient Wisdom of Mythic Engineering
 
 ---
