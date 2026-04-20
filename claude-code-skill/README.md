@@ -28,13 +28,13 @@ When you type `/mythic-engineering:mythic-engineering` in Claude Code (plugin in
 
 ### Option 1 — Claude Code Plugin (recommended)
 
-This repo is a proper Claude Code plugin. Load it with:
+The `claude-code-skill/` directory is a self-contained Claude Code plugin. Load it with:
 
 ```bash
-claude --plugin-dir /path/to/Mythic-Engineering
+claude --plugin-dir /path/to/Mythic-Engineering/claude-code-skill
 ```
 
-Or for development/testing from the repo directory:
+Or from inside the `claude-code-skill/` directory:
 
 ```bash
 claude --plugin-dir .
@@ -48,7 +48,7 @@ Copy the skill into your project's Claude Code skills directory:
 
 ```bash
 mkdir -p .claude/skills/mythic-engineering
-cp /path/to/Mythic-Engineering/skills/mythic-engineering/SKILL.md .claude/skills/mythic-engineering/SKILL.md
+cp /path/to/Mythic-Engineering/claude-code-skill/skills/mythic-engineering/SKILL.md .claude/skills/mythic-engineering/SKILL.md
 ```
 
 Commit it so every collaborator gets it:
@@ -64,7 +64,7 @@ Invoked as `/mythic-engineering`.
 
 ```bash
 mkdir -p ~/.claude/skills/mythic-engineering
-cp /path/to/Mythic-Engineering/skills/mythic-engineering/SKILL.md ~/.claude/skills/mythic-engineering/SKILL.md
+cp /path/to/Mythic-Engineering/claude-code-skill/skills/mythic-engineering/SKILL.md ~/.claude/skills/mythic-engineering/SKILL.md
 ```
 
 Invoked as `/mythic-engineering`.
@@ -117,7 +117,7 @@ Full methodology: [README.md](../README.md) | Philosophy: [PHILOSOPHY.md](../PHI
 Copyright (c) 2026 Volmarr Wyrd
 
 Mythic Engineering is licensed under the Apache License, Version 2.0.
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](../LICENSE) file for details.
 
 Unless required by applicable law or agreed to in writing, this project is distributed on an "AS IS" BASIS, without warranties or conditions of any kind.
 
@@ -133,7 +133,7 @@ The author may decline to provide official binaries, installers, hosted services
 
 Any third party who forks, packages, redistributes, deploys, hosts, or otherwise makes this software available does so independently and is solely responsible for compliance with applicable law, platform policy, and distribution requirements in their own jurisdiction and context.
 
-See [LEGAL-NOTICE.md](LEGAL-NOTICE.md) for details.
+See [LEGAL-NOTICE.md](../LEGAL-NOTICE.md) for details.
 
 ---
 
