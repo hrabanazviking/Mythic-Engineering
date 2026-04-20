@@ -1709,6 +1709,8 @@ Do **not** use The Architect for poetic framing, emotional tone work, or project
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/7868uyu.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/7868uyu.png)
+
 ## The Forge Worker
 Use for:
 - code writing
