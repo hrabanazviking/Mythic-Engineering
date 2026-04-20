@@ -76,3 +76,11 @@ Claude will apply the full ME workflow to that task: scout → document → repo
 Software is not a pile of features. It is a living structure made of domains, rules, interfaces, memory, flows, constraints, and emergent behavior. This skill keeps Claude Code aligned with that truth.
 
 Full methodology: [README.md](../README.md) | Philosophy: [PHILOSOPHY.md](../PHILOSOPHY.md) | Laws: [RULES.AI.md](../RULES.AI.md)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
+
+---
+
+
