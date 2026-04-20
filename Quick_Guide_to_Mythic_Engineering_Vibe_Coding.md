@@ -1,5 +1,7 @@
 # Quick Guide to Mythic Engineering Vibe Coding
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ndfnfnd8348383.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ndfnfnd8348383.png)
+
 ## Executive Summary
 
 **"Vibe Coding"** is a method of software creation where human intention and "vibe" are translated into digital architecture by artificial intelligence. Moving away from the traditional "Machine Perspective," which views code as a collection of dead parts, the Codex advocates for **"Mythic Engineering,"** a "Garden Perspective" that treats digital projects as living systems.
@@ -41,6 +43,12 @@ The **creation begins** with the Vision Scroll (`SYSTEM_VISION.md`), a plain-tex
 * **The Primary Rite:** The single most important action a user takes (the core interaction).
 * **Unbreakable Vows:** Non-negotiable principles (e.g., "This creation shall never share private thoughts").
 * **True Names:** Using long, descriptive, story-like names (e.g., `MorningGreetingRitual` instead of `dataStuff`) to give the AI power over the hidden architecture.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/c832097b-51ba-4b90-a4b7-da0b95123311.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/c832097b-51ba-4b90-a4b7-da0b95123311.jpg)
+
+---
 
 ### Pillar Two: AI Orchestration (The Dance of Wills)
 
@@ -112,6 +120,10 @@ Brief **Glossary** to translate technical jargon into "Mythic" terminology to ma
 | **UI** | Face of the World | What the user sees, hears, and touches. |
 | **Unit Test** | Prophecy | Writing down what must be true to prevent failure. |
 | **Database** | Deep Memory Vault | A structured system for storing information. |
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Image_fmir17fmir17fmir.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Image_fmir17fmir17fmir.png)
 
 ---
 
