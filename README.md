@@ -337,7 +337,7 @@ Artifacts:
 
 # An Easy Version for Beginners
 
-Even easier way to learn ---> [The Mythic Engineer's Codex: Vibe Coding 101](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/Mythic_Engineers_Codex.md) |
+Even easier way to learn ---> | [The Mythic Engineer's Codex: Vibe Coding 101](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/Mythic_Engineers_Codex.md) |
 
 If the full method feels big, use this simpler version.
 
