@@ -1,5 +1,7 @@
 | [The Mythic Engineer's Codex: Vibe Coding 101](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/Mythic_Engineers_Codex.md) | [Quick Guide to Mythic Engineering Vibe Coding](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/Quick_Guide_to_Mythic_Engineering_Vibe_Coding.md) | [Claude Code Mythic Engineering Plugin](https://github.com/hrabanazviking/Mythic-Engineering/tree/main/claude-code-skill) |
 
+---
+
 # Mythic Engineering
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
