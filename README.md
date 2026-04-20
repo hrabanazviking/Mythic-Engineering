@@ -1,3 +1,5 @@
+| [Claude Code Mythic Engineering Plugin](https://github.com/hrabanazviking/Mythic-Engineering/tree/main/claude-code-skill) |
+
 # Mythic Engineering
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
