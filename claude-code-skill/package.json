@@ -1,0 +1,35 @@
+{
+  "name": "@hrabanazviking/mythic-engineering",
+  "version": "1.0.0",
+  "description": "Mythic Engineering Claude Code skill — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles.",
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "claude-code-plugin",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "claude-code-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    ".claude-plugin/",
+    "skills/",
+    "SKILL.md",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}
