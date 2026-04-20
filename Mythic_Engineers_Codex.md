@@ -36,6 +36,10 @@ The craftsman awaits. Your journey begins now.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101.png)
+
+---
+
 ## Introduction: The Two Worlds Collide
 
 Imagine two vast realms that have existed side by side, separated by a great chasm.
