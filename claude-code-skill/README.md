@@ -14,61 +14,84 @@ Invoke it at the start of any session to orient Claude Code to architecture-firs
 
 ## What It Does
 
-When you type `/mythic-engineering` in Claude Code, it activates:
+When you type `/mythic-engineering:mythic-engineering` in Claude Code (plugin install), or `/mythic-engineering` (manual install), it activates:
 
-- **Session Start Protocol** — forces Huginn's flight before any code is written (read TODO, scout codebase, write TASK file, report findings, wait for approval)
-- **The Five-Layer Architecture Model** — Vision → Domain → Interface → Implementation → Verification
+- **Six Specialist Roles** — Sigrún (Skald), Rúnhild (Architect), Eldra (Forge Worker), Sólrún (Auditor), Védis (Cartographer), Eirwyn (Scribe)
+- **Session Start Protocol** — mandatory orientation before touching any code (read TODO, scout codebase, write TASK file, report, wait for approval)
+- **The Five-Layer Architecture Model** — Vision → Domain → Interface → Execution → Verification
 - **Immutable Coding Laws** — no pseudocode, no absolute paths, no hardcoded data, full files only, additive fixes only, finish all connections
-- **Norse Engineering Mindset** — thinking in domains, invariants, continuity, and system truth
-- **Role-based AI modes** — Huginn (observation), Muninn (documentation), Skald (implementation), Valkyrie (verification), Norns (continuity)
+- **Full ME Protocol** — 8-phase workflow, daily routine, quickstart checklists, prompt design structure, all templates
 
 ---
 
 ## Installation
 
-### Option 1 — Project scope (recommended)
+### Option 1 — Claude Code Plugin (recommended)
 
-Copy `SKILL.md` into your project's Claude Code skills directory:
+This repo is a proper Claude Code plugin. Load it with:
+
+```bash
+claude --plugin-dir /path/to/Mythic-Engineering
+```
+
+Or for development/testing from the repo directory:
+
+```bash
+claude --plugin-dir .
+```
+
+Once loaded, the skill is namespaced as `/mythic-engineering:mythic-engineering`.
+
+### Option 2 — Manual project scope
+
+Copy the skill into your project's Claude Code skills directory:
 
 ```bash
 mkdir -p .claude/skills/mythic-engineering
-cp path/to/this/SKILL.md .claude/skills/mythic-engineering/SKILL.md
+cp /path/to/Mythic-Engineering/skills/mythic-engineering/SKILL.md .claude/skills/mythic-engineering/SKILL.md
 ```
 
-Commit it with your project so every collaborator gets it:
+Commit it so every collaborator gets it:
 
 ```bash
 git add .claude/skills/mythic-engineering/SKILL.md
 git commit -m "feat: add Mythic Engineering Claude Code skill"
 ```
 
-### Option 2 — Global scope (all your projects)
+Invoked as `/mythic-engineering`.
 
-Copy `SKILL.md` into your global Claude Code skills directory:
+### Option 3 — Manual global scope (all your projects)
 
 ```bash
 mkdir -p ~/.claude/skills/mythic-engineering
-cp path/to/this/SKILL.md ~/.claude/skills/mythic-engineering/SKILL.md
+cp /path/to/Mythic-Engineering/skills/mythic-engineering/SKILL.md ~/.claude/skills/mythic-engineering/SKILL.md
 ```
+
+Invoked as `/mythic-engineering`.
 
 ---
 
 ## Usage
 
-**Activate ME mode at session start (no task yet):**
+**Plugin install — session start:**
+```
+/mythic-engineering:mythic-engineering
+```
+
+**Plugin install — specific role:**
+```
+/mythic-engineering:mythic-engineering architect
+```
+
+**Plugin install — specific task:**
+```
+/mythic-engineering:mythic-engineering refactor the memory module to use internal APIs
+```
+
+**Manual install (same skill, no namespace prefix):**
 ```
 /mythic-engineering
-```
-Claude will read TODO.md, scout the codebase, and report before touching anything.
-
-**Activate ME mode for a specific task:**
-```
-/mythic-engineering refactor the memory module to use internal APIs
-```
-Claude will apply the full ME workflow to that task: scout → document → report → implement.
-
-**Activate ME mode to analyze the codebase:**
-```
+/mythic-engineering forge
 /mythic-engineering analyze the current architecture and identify ME violations
 ```
 

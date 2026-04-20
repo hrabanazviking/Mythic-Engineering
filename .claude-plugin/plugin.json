@@ -1,0 +1,12 @@
+{
+  "name": "mythic-engineering",
+  "description": "Activate the Mythic Engineering protocol — architecture-first, document-guided, AI-orchestrated development with six specialist roles.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "license": "Apache-2.0"
+}
