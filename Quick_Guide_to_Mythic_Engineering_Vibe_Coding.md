@@ -126,6 +126,10 @@ A **Mythic Engineer** requires a minimal but specific set of "artifacts":
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101-2.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101-2.png)
+
+---
+
 ## V. Key Definitions and Translations
 
 Brief **Glossary** to translate technical jargon into "Mythic" terminology to maintain the garden-centric mindset:
@@ -144,6 +148,10 @@ Brief **Glossary** to translate technical jargon into "Mythic" terminology to ma
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Image_fmir17fmir17fmir.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Image_fmir17fmir17fmir.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Master_Architect.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Master_Architect.png)
 
 ---
 
