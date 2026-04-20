@@ -1,0 +1,3 @@
+-Don't move or delete any of the files in this repo.
+-The main folder of this repo is for the protocol of Mythic Engineering. Skills for any platform are never to be put in the main folder. All skills are to go into folders that are according to the platform they are for. This repo is to have the skills to use Mythic Engineering on many different platforms. 
+-Never put any skill files in this main folder, only put them in the correct directories. You only add the directories for the skills to the main folder of this repo.
