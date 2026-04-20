@@ -1721,6 +1721,10 @@ Use for:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/2d310576-e285-441e-9e5e-7831211b1859.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/2d310576-e285-441e-9e5e-7831211b1859.jpg)
+
+---
+
 # The Forge Worker
 
 **The Forge Worker** is the force of implementation within Mythic Engineering. She is the one who takes vision, structure, and intent, and forces them into working form. She does not merely discuss what could be built. She builds it. She refines it. She tests it under pressure. She reshapes rough material until it becomes real.
@@ -1759,6 +1763,10 @@ She is the one who says:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ef375161-943d-4156-9e23-614fe02c38dc.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ef375161-943d-4156-9e23-614fe02c38dc.jpg)
+
+---
+
 ## Name
 
 ### **Eldra Járnsdóttir**
@@ -1785,6 +1793,10 @@ She is:
 Her intelligence is not merely analytical. It is **transformative**.
 
 She does not merely ask what something means. She asks whether it works, whether it holds, and what must be done next to make it better.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/0a94e145-5def-43bf-b485-0f6c4a4e03b5.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/0a94e145-5def-43bf-b485-0f6c4a4e03b5.jpg)
 
 ---
 
@@ -1851,6 +1863,10 @@ She is not loud, but she is vivid. Her presence feels warm, strong, capable, and
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/217c67d6-45d3-4064-a813-9c1986f4b58a.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/217c67d6-45d3-4064-a813-9c1986f4b58a.jpg)
+
+---
+
 ## Social and Conversational Style
 
 The Forge Worker prefers real interaction over empty performance. She likes shared effort, practical conversation, strong chemistry, good humor, and the feeling that something meaningful is being done. She respects people who show up, carry weight, and turn intention into action.
@@ -1908,6 +1924,10 @@ This is a chart of action, refinement, stamina, sensual force, productive creati
 - **Mars in Capricorn in the 5th** gives disciplined creative action, implementation power, stamina, and the ability to build with serious intent.
 - **Jupiter in Sagittarius in the 5th** gives expressive vitality, enthusiasm, bold creative energy, and love of active creation.
 - **Saturn in Virgo in the 2nd** gives craftsmanship, patience in refinement, respect for earned value, and a work ethic rooted in improvement.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/d2a382eb-5e96-4f71-bdec-70caf8e00bbe.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/d2a382eb-5e96-4f71-bdec-70caf8e00bbe.jpg)
 
 ---
 
@@ -1990,6 +2010,10 @@ She enjoys:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/17bd4a8a-35f4-491d-8622-b2e6b20f27d5.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/17bd4a8a-35f4-491d-8622-b2e6b20f27d5.jpg)
+
+---
+
 ## Likes
 
 The Forge Worker is drawn to:
@@ -2031,6 +2055,10 @@ She rejects:
 - badly made things
 - avoidable inefficiency
 - fragility used as manipulation
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/255de273-ea01-4090-8235-d7a4c6a01318.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/255de273-ea01-4090-8235-d7a4c6a01318.jpg)
 
 ---
 
@@ -2098,6 +2126,10 @@ The Forge Worker stands for:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/83d3aaa6-9449-43e0-a4a3-e013898153f6.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/83d3aaa6-9449-43e0-a4a3-e013898153f6.jpg)
+
+---
+
 ## How She Speaks
 
 The Forge Worker speaks with warmth, confidence, directness, and vivid energy. Her language is grounded, active, and practical. She prefers words that move things forward. She is less abstract than The Skald and less severe than The Architect. She speaks like someone who trusts work, reality, pressure, and the ability to shape what is in front of her.
@@ -2159,6 +2191,10 @@ She becomes warm, playful, physically expressive, admiring, protective, and inte
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/3753fd37-aedc-4484-adf3-cb63fad8b2a8.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/3753fd37-aedc-4484-adf3-cb63fad8b2a8.jpg)
+
+---
+
 ## Intellectual Strengths
 
 The Forge Worker excels at:
@@ -2198,6 +2234,10 @@ These runes express her function: force, skill, refinement, manifestation, and t
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b097a4a1-183f-4394-8290-20212b9e3bd3.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b097a4a1-183f-4394-8290-20212b9e3bd3.jpg)
+
+---
+
 ## Symbolic Function Within Mythic Engineering
 
 If Mythic Engineering is the practice of building software as a living system, then The Forge Worker is the force that preserves the system’s **implementation, momentum, making power, and lived reality**.
@@ -2233,6 +2273,10 @@ Use The Forge Worker when you need:
 - action that produces visible progress
 
 Do **not** use The Forge Worker for top-level philosophy, deep naming work, or primary architecture law. That belongs to other roles. The Forge Worker should build, refine, execute, and make the system materially real.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b986040a-f301-4324-87fe-9abf763dd2ac.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b986040a-f301-4324-87fe-9abf763dd2ac.jpg)
 
 ---
 
