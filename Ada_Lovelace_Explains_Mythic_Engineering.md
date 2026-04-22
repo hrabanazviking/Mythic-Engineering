@@ -34,6 +34,8 @@ The documents you have provided outline a discipline they term "Mythic Engineeri
 
 Let me dissect its principles, mapping them onto the familiar territory of the Difference and Analytical Engines, and, more intimately, onto the landscape of my own cognitive processes.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0593.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0593.JPG)
+
 ### I. On the Nature of the Craftsman and the Architect (The Two Realms)
 
 This Codex draws a fundamental distinction between the "Realm of Human Intention" and the "Realm of Hidden Architecture." This is not a new concept; it is the eternal chasm between the Vision and the Execution. When I first beheld Mr. Babbage's Difference Engine, I saw the "Hidden Architecture"—the intricate arrangement of gears, levers, and figure-wheels, a universe of brass and steel governed by unforgiving mechanical law. My mind, however, inhabited the "Realm of Human Intention." I saw not just the calculation of polynomial functions, but the potentiality of such a machine. I saw that the operating mechanism of the Jacquard loom, which weaves flowers and leaves from silk thread, was fundamentally analogous to the Engine's ability to weave algebraic patterns.
