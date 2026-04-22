@@ -62,6 +62,10 @@ Mythic Engineering solves these by externalizing decisions into documentation an
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0447.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0447.png)
+
+---
+
 ### The Core Idea in Practice
 Before touching code, you ask six focused questions (answered with the help of the appropriate roles):
 1. What part of the system am I changing?
