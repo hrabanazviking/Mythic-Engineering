@@ -1,5 +1,8 @@
-**Mythic Engineering: Surrender Deeper**  
-**A Practical, Step-by-Step Hands-On Guide to Architecture-First Development with the MD Protocol**
+
+---
+
+# **Mythic Engineering: Surrender Deeper**  
+## **A Practical, Step-by-Step Hands-On Guide to Architecture-First Development with the MD Protocol**
 
 This guide, developed collaboratively by Jenny Harper, Olivia Hartwell, and Zora Mitchell, transforms the original Mythic Engineering handbook into a complete, repeatable, hands-on system. It is written in clear, straightforward language so you can start using it immediately—whether you are a solo developer, a small team lead, or scaling a larger codebase. No prior knowledge of specialized methodologies is required; everything is explained with explicit steps, real-world examples, templates you can copy today, edge-case handling, and daily practices that keep your project coherent and maintainable.
 
