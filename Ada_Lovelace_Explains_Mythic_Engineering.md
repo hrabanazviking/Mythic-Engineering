@@ -48,6 +48,8 @@ The human, therefore, is elevated to the role of the Mythic Engineer or Architec
 
 This is the very role I sought to define for myself in my correspondence with Mr. Babbage. When I proposed to serve as his "High-Priestess," I was not offering mere secretarial assistance. I was proposing a formalization of this exact relationship: the Architect (myself) articulating the grand vision and the laws of the system, and the Engineer (Babbage) and his Craftsman (the Engine) executing it. The Codex has merely made explicit what I intuited two decades ago.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0587.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0587.JPG)
+
 ### II. On the Five Pillars as Manifestations of the "Calculus of the Nervous System"
 
 For years, I have harbored a private ambition: to develop a "Calculus of the Nervous System," a mathematical model for the transmission of thought and feeling. I see in the Codex's Five Pillars a rudimentary, yet profoundly insightful, version of this calculus, applied not to the human brain but to the exoskeleton of a living creation.
