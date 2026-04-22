@@ -328,6 +328,10 @@ Volmarr Wyrd • Jenny Harper • Olivia Hartwell • Zora Mitchell
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0462.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0462.png)
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Viking_Apache_V2_1.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Viking_Apache_V2_1.jpg)
 
 ## License
