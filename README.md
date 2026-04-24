@@ -23,6 +23,8 @@
 >
 > Mythic Engineering builds software as a living system.
 
+---
+
 **Mythic Engineering** is a disciplined form of vibe coding for people who think in worlds, systems, forces, relationships, and evolving architectures.
 
 It is not sloppy improvisation.  
