@@ -211,15 +211,16 @@ All implementation must follow ME hard rules:
 
 | Phase | Status | Notes |
 |---|---|---|
-| 0 — Template & Research | ⬜ pending | |
-| 1 — Tier 1 Agentic | ⬜ pending | |
-| 2 — Tier 2 Agentic | ⬜ pending | |
-| 3 — Tier 3 IDE | ⬜ pending | |
-| 4 — Tier 4 Web | ⬜ pending | |
-| 5 — Unified Workflow | ⬜ pending | |
-| 6 — Index & Docs | ⬜ pending | |
+| 0 — Template & Research | ✅ complete | Four parallel research passes covering 20 platforms (2026-05-19) |
+| 1 — Tier 1 Agentic | ✅ complete | Windsurf, Cline, Kilo Code, GitHub Copilot — commit `ec8263a` |
+| 2 — Tier 2 Agentic | ✅ complete | Continue, Aider, Goose, OpenHands, Devin, Amp — commit `4b642c1` |
+| 3 — Tier 3 IDE | ✅ complete | JetBrains, Amazon Q, Zed, Cody, Tabnine — commit `a050bbe` |
+| 4 — Tier 4 Web | ✅ complete | Bolt, v0, Replit, OpenWebUI, LibreChat — commit `f9504b9` |
+| 5 — Unified Workflow | ✅ complete | `publish-skill.yml` matrix publishes all 22 packages in parallel on release |
+| 6 — Index & Docs | ✅ complete | `PLATFORMS.md` is the one-page index; root `README.md` links to it |
 | Claude Code skill | ✅ complete | `@hrabanazviking/mythic-engineering-claude-code` published |
+| Cursor skill | ✅ complete | `@hrabanazviking/mythic-engineering-cursor` |
 
 ---
 
-*Awaiting Volmarr approval before Phase 0 begins.*
+*All 22 platform packages built and pushed. Tag a release on GitHub to trigger the publish workflow.*
