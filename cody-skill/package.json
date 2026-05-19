@@ -1,0 +1,34 @@
+{
+  "name": "@hrabanazviking/mythic-engineering-cody",
+  "version": "1.0.0",
+  "description": "Mythic Engineering Sourcegraph Cody pre-instructions package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Cody-enabled IDE.",
+  "keywords": [
+    "cody",
+    "sourcegraph",
+    "sourcegraph-cody",
+    "pre-instruction",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "cody-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    "MYTHIC.md",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}

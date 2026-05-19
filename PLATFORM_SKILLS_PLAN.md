@@ -40,11 +40,11 @@ All packages are scoped to `@hrabanazviking/` and follow the pattern:
 | OpenHands | `@hrabanazviking/mythic-engineering-openhands` ✅ done |
 | Devin | `@hrabanazviking/mythic-engineering-devin` ✅ done |
 | Amp | `@hrabanazviking/mythic-engineering-amp` ✅ done |
-| JetBrains AI | `@hrabanazviking/mythic-engineering-jetbrains` |
-| Amazon Q Developer | `@hrabanazviking/mythic-engineering-amazon-q` |
-| Zed AI | `@hrabanazviking/mythic-engineering-zed` |
-| Sourcegraph Cody | `@hrabanazviking/mythic-engineering-cody` |
-| Tabnine | `@hrabanazviking/mythic-engineering-tabnine` |
+| JetBrains AI | `@hrabanazviking/mythic-engineering-jetbrains` ✅ done |
+| Amazon Q Developer | `@hrabanazviking/mythic-engineering-amazon-q` ✅ done |
+| Zed AI | `@hrabanazviking/mythic-engineering-zed` ✅ done |
+| Sourcegraph Cody | `@hrabanazviking/mythic-engineering-cody` ✅ done |
+| Tabnine | `@hrabanazviking/mythic-engineering-tabnine` ✅ done |
 | Bolt.new | `@hrabanazviking/mythic-engineering-bolt` |
 | v0 (Vercel) | `@hrabanazviking/mythic-engineering-v0` |
 | Replit AI | `@hrabanazviking/mythic-engineering-replit` |

@@ -1,0 +1,78 @@
+# The MD Protocol — Documentation as Living Memory
+
+Every important aspect of the project lives in plain Markdown that acts as the single source of truth. These files preserve context so anyone (you, the human, future agents) can return to the project months later and immediately understand how everything fits together.
+
+## The Required Scrolls
+
+| Scroll | What it holds | Owning role |
+|---|---|---|
+| `README.md` | Outward-facing intro: what it is, how to install, basic usage | Scribe |
+| `MYTHIC_ENGINEERING.md` | How to work in this specific repo under the protocol | Scribe + Architect |
+| `PHILOSOPHY.md` | The deeper *why* — the wound it salves, the iron laws | Skald |
+| `SYSTEM_VISION.md` | The soul — what this project exists to do | Skald |
+| `DOMAIN_MAP.md` | Realm boundaries — what belongs where | Architect |
+| `ARCHITECTURE.md` | Bones — major structural decisions | Architect |
+| `DATA_FLOW.md` | Rivers of flow — every important data path | Cartographer |
+| `PROJECT_LAWS.md` | Immutable rules specific to this project | Architect + Auditor |
+| `INTERFACE.md` (per module) | Public API contract: inputs, outputs, side effects | Architect |
+| `DEVLOG.md` | What changed, why, what was learned (newest first) | Scribe |
+| `TODO.md` | Current open work (read first every session) | Scribe |
+| `docs/bugs/NNNN-*.md` | Open and resolved bug notes from Auditor passes | Auditor |
+| `docs/DECISIONS/*.md` (optional) | One file per major decision | Scribe |
+
+## Recommended Repository Structure
+
+```
+project/
+├── README.md
+├── MYTHIC_ENGINEERING.md
+├── PHILOSOPHY.md
+├── SYSTEM_VISION.md
+├── DOMAIN_MAP.md
+├── ARCHITECTURE.md
+├── DATA_FLOW.md
+├── PROJECT_LAWS.md
+├── DEVLOG.md
+├── TODO.md
+├── docs/
+│   ├── bugs/
+│   │   ├── 0001-some-bug.md
+│   │   └── ...
+│   ├── DECISIONS/
+│   └── plunder/        ← if any upstream code was imported
+├── src/                ← or your language's equivalent
+│   ├── domain_a/
+│   │   ├── README.md
+│   │   ├── README_AI.md
+│   │   ├── INTERFACE.md
+│   │   └── ...
+│   └── domain_b/
+│       └── ...
+├── tasks/              ← one file per active task
+│   └── feature_x_GOALS.md
+├── tests/
+├── scripts/
+└── .cursor/
+    └── rules/          ← this very directory
+```
+
+## Per-Module Docs
+
+Every important folder gets:
+- `README.md` — human-facing overview
+- `README_AI.md` — purpose, contents, and rules-of-engagement when editing this folder
+
+Every module that exposes a public API gets:
+- `INTERFACE.md` — inputs, outputs, side effects, invariants, intentional non-features
+
+Examples of usage belong in an `examples/` subfolder.
+
+## How Docs Stay True
+
+- The **Scribe** updates docs at the end of every session — see `02-session-protocol`
+- The **Auditor** flags docs that drift from code reality
+- A refactor is not done until the docs match — see `04-refactor`
+- A bug fix is not done until the bug note is closed with the Resolution section — see `03-bug-hunt`
+- Stale documentation is treated as a bug
+
+The cost of writing docs is paid once. The cost of *not* having them is paid every time anyone (you, the human, a future agent) loses orientation.

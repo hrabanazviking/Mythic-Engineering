@@ -26,6 +26,11 @@ jobs:
           - openhands-skill
           - devin-skill
           - amp-skill
+          - jetbrains-skill
+          - amazon-q-skill
+          - zed-skill
+          - cody-skill
+          - tabnine-skill
     steps:
       - uses: actions/checkout@v4
 
