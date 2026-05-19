@@ -1,0 +1,35 @@
+{
+  "name": "@hrabanazviking/mythic-engineering-replit",
+  "version": "1.0.0",
+  "description": "Mythic Engineering Replit AI custom-instructions package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Repl.",
+  "keywords": [
+    "replit",
+    "replit-ai",
+    "replit-agent",
+    "custom-instruction",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "replit-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    "custom_instruction/",
+    "AGENTS.md",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}

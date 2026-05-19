@@ -45,11 +45,11 @@ All packages are scoped to `@hrabanazviking/` and follow the pattern:
 | Zed AI | `@hrabanazviking/mythic-engineering-zed` ✅ done |
 | Sourcegraph Cody | `@hrabanazviking/mythic-engineering-cody` ✅ done |
 | Tabnine | `@hrabanazviking/mythic-engineering-tabnine` ✅ done |
-| Bolt.new | `@hrabanazviking/mythic-engineering-bolt` |
-| v0 (Vercel) | `@hrabanazviking/mythic-engineering-v0` |
-| Replit AI | `@hrabanazviking/mythic-engineering-replit` |
-| OpenWebUI | `@hrabanazviking/mythic-engineering-openwebui` |
-| LibreChat | `@hrabanazviking/mythic-engineering-librechat` |
+| Bolt.new | `@hrabanazviking/mythic-engineering-bolt` ✅ done |
+| v0 (Vercel) | `@hrabanazviking/mythic-engineering-v0` ✅ done |
+| Replit AI | `@hrabanazviking/mythic-engineering-replit` ✅ done |
+| OpenWebUI | `@hrabanazviking/mythic-engineering-openwebui` ✅ done |
+| LibreChat | `@hrabanazviking/mythic-engineering-librechat` ✅ done |
 
 ---
 
