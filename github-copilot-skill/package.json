@@ -1,0 +1,34 @@
+{
+  "name": "@hrabanazviking/mythic-engineering-github-copilot",
+  "version": "1.0.0",
+  "description": "Mythic Engineering GitHub Copilot custom-instructions package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Copilot-enabled project.",
+  "keywords": [
+    "github-copilot",
+    "copilot-instructions",
+    "vscode",
+    "github",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "github-copilot-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    ".github/",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}

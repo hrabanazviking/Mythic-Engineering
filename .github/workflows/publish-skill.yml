@@ -16,6 +16,10 @@ jobs:
         package:
           - claude-code-skill
           - cursor-skill
+          - windsurf-skill
+          - cline-skill
+          - kilocode-skill
+          - github-copilot-skill
     steps:
       - uses: actions/checkout@v4
 

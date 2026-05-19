@@ -1,0 +1,33 @@
+{
+  "name": "@hrabanazviking/mythic-engineering-cline",
+  "version": "1.0.0",
+  "description": "Mythic Engineering Cline rules package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Cline project.",
+  "keywords": [
+    "cline",
+    "cline-rules",
+    "vscode",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "cline-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    ".clinerules/",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}

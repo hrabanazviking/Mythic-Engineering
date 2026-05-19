@@ -30,10 +30,10 @@ All packages are scoped to `@hrabanazviking/` and follow the pattern:
 |---|---|
 | Claude Code | `@hrabanazviking/mythic-engineering-claude-code` ✅ done |
 | Cursor | `@hrabanazviking/mythic-engineering-cursor` ✅ done |
-| Windsurf | `@hrabanazviking/mythic-engineering-windsurf` |
-| Cline | `@hrabanazviking/mythic-engineering-cline` |
-| Kilo Code | `@hrabanazviking/mythic-engineering-kilocode` |
-| GitHub Copilot | `@hrabanazviking/mythic-engineering-github-copilot` |
+| Windsurf | `@hrabanazviking/mythic-engineering-windsurf` ✅ done |
+| Cline | `@hrabanazviking/mythic-engineering-cline` ✅ done |
+| Kilo Code | `@hrabanazviking/mythic-engineering-kilocode` ✅ done |
+| GitHub Copilot | `@hrabanazviking/mythic-engineering-github-copilot` ✅ done |
 | Continue.dev | `@hrabanazviking/mythic-engineering-continue` |
 | Aider | `@hrabanazviking/mythic-engineering-aider` |
 | Goose | `@hrabanazviking/mythic-engineering-goose` |
