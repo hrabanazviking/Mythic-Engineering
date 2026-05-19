@@ -1,0 +1,34 @@
+{
+  "name": "@hrabanazviking/mythic-engineering-amp",
+  "version": "1.0.0",
+  "description": "Mythic Engineering Amp AGENTS.md package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Sourcegraph Amp project.",
+  "keywords": [
+    "amp",
+    "sourcegraph",
+    "agents-md",
+    "ampcode",
+    "mythic-engineering",
+    "ai-development",
+    "software-architecture",
+    "norse"
+  ],
+  "homepage": "https://github.com/hrabanazviking/Mythic-Engineering",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrabanazviking/Mythic-Engineering.git",
+    "directory": "amp-skill"
+  },
+  "author": {
+    "name": "Volmarr Wyrd",
+    "url": "https://github.com/hrabanazviking"
+  },
+  "license": "Apache-2.0",
+  "files": [
+    "AGENTS.md",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}

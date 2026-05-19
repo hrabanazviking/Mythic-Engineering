@@ -20,6 +20,12 @@ jobs:
           - cline-skill
           - kilocode-skill
           - github-copilot-skill
+          - continue-skill
+          - aider-skill
+          - goose-skill
+          - openhands-skill
+          - devin-skill
+          - amp-skill
     steps:
       - uses: actions/checkout@v4
 

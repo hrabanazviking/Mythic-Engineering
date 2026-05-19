@@ -34,12 +34,12 @@ All packages are scoped to `@hrabanazviking/` and follow the pattern:
 | Cline | `@hrabanazviking/mythic-engineering-cline` ✅ done |
 | Kilo Code | `@hrabanazviking/mythic-engineering-kilocode` ✅ done |
 | GitHub Copilot | `@hrabanazviking/mythic-engineering-github-copilot` ✅ done |
-| Continue.dev | `@hrabanazviking/mythic-engineering-continue` |
-| Aider | `@hrabanazviking/mythic-engineering-aider` |
-| Goose | `@hrabanazviking/mythic-engineering-goose` |
-| OpenHands | `@hrabanazviking/mythic-engineering-openhands` |
-| Devin | `@hrabanazviking/mythic-engineering-devin` |
-| Amp | `@hrabanazviking/mythic-engineering-amp` |
+| Continue.dev | `@hrabanazviking/mythic-engineering-continue` ✅ done |
+| Aider | `@hrabanazviking/mythic-engineering-aider` ✅ done |
+| Goose | `@hrabanazviking/mythic-engineering-goose` ✅ done |
+| OpenHands | `@hrabanazviking/mythic-engineering-openhands` ✅ done |
+| Devin | `@hrabanazviking/mythic-engineering-devin` ✅ done |
+| Amp | `@hrabanazviking/mythic-engineering-amp` ✅ done |
 | JetBrains AI | `@hrabanazviking/mythic-engineering-jetbrains` |
 | Amazon Q Developer | `@hrabanazviking/mythic-engineering-amazon-q` |
 | Zed AI | `@hrabanazviking/mythic-engineering-zed` |
