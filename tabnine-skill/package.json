@@ -1,7 +1,7 @@
 {
   "name": "@hrabanazviking/mythic-engineering-tabnine",
-  "version": "1.0.0",
-  "description": "Mythic Engineering Tabnine Agents guidelines package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Tabnine-enabled project.",
+  "version": "1.1.0",
+  "description": "Mythic Engineering Tabnine Agents guidelines package \u2014 activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Tabnine-enabled project.",
   "keywords": [
     "tabnine",
     "tabnine-agents",

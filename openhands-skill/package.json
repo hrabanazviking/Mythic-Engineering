@@ -1,7 +1,7 @@
 {
   "name": "@hrabanazviking/mythic-engineering-openhands",
-  "version": "1.0.0",
-  "description": "Mythic Engineering OpenHands skill package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles. Hybrid AGENTS.md always-on + .agents/skills/ on-demand.",
+  "version": "1.1.0",
+  "description": "Mythic Engineering OpenHands skill package \u2014 activate architecture-first, document-guided, AI-orchestrated development with six specialist roles. Hybrid AGENTS.md always-on + .agents/skills/ on-demand.",
   "keywords": [
     "openhands",
     "open-devin",

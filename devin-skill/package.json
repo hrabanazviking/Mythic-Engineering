@@ -1,7 +1,7 @@
 {
   "name": "@hrabanazviking/mythic-engineering-devin",
-  "version": "1.0.0",
-  "description": "Mythic Engineering Devin package — playbook + knowledge items to paste into Devin's web app. Activates architecture-first, document-guided, AI-orchestrated development with six specialist roles.",
+  "version": "1.1.0",
+  "description": "Mythic Engineering Devin package \u2014 playbook + knowledge items to paste into Devin's web app. Activates architecture-first, document-guided, AI-orchestrated development with six specialist roles.",
   "keywords": [
     "devin",
     "cognition",

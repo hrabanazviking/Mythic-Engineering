@@ -1,7 +1,7 @@
 {
   "name": "@hrabanazviking/mythic-engineering-cursor",
-  "version": "1.0.0",
-  "description": "Mythic Engineering Cursor rules package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Cursor project.",
+  "version": "1.1.0",
+  "description": "Mythic Engineering Cursor rules package \u2014 activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Cursor project.",
   "keywords": [
     "cursor",
     "cursor-rules",

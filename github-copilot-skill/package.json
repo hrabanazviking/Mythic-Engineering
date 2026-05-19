@@ -1,7 +1,7 @@
 {
   "name": "@hrabanazviking/mythic-engineering-github-copilot",
-  "version": "1.0.0",
-  "description": "Mythic Engineering GitHub Copilot custom-instructions package — activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Copilot-enabled project.",
+  "version": "1.1.0",
+  "description": "Mythic Engineering GitHub Copilot custom-instructions package \u2014 activate architecture-first, document-guided, AI-orchestrated development with six specialist roles in any Copilot-enabled project.",
   "keywords": [
     "github-copilot",
     "copilot-instructions",
