@@ -29,7 +29,7 @@ All packages are scoped to `@hrabanazviking/` and follow the pattern:
 | Platform | Package Name |
 |---|---|
 | Claude Code | `@hrabanazviking/mythic-engineering-claude-code` ✅ done |
-| Cursor | `@hrabanazviking/mythic-engineering-cursor` |
+| Cursor | `@hrabanazviking/mythic-engineering-cursor` ✅ done |
 | Windsurf | `@hrabanazviking/mythic-engineering-windsurf` |
 | Cline | `@hrabanazviking/mythic-engineering-cline` |
 | Kilo Code | `@hrabanazviking/mythic-engineering-kilocode` |

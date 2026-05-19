@@ -1,4 +1,4 @@
-name: Publish Claude Code Skill to GitHub Packages
+name: Publish Mythic Engineering Skill Packages to GitHub Packages
 
 on:
   release:
@@ -10,6 +10,12 @@ jobs:
     permissions:
       contents: read
       packages: write
+    strategy:
+      fail-fast: false
+      matrix:
+        package:
+          - claude-code-skill
+          - cursor-skill
     steps:
       - uses: actions/checkout@v4
 
@@ -19,8 +25,8 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@hrabanazviking'
 
-      - name: Publish @hrabanazviking/mythic-engineering
-        working-directory: claude-code-skill
+      - name: Publish ${{ matrix.package }}
+        working-directory: ${{ matrix.package }}
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
